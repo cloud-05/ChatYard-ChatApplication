@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.MantashaChat">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyChatAppTutorial">
+        <activity android:name="com.example.MantashaChat.specificchat" />
+        <activity android:name="com.example.MantashaChat.UpdateProfile" />
+        <activity android:name="com.example.MantashaChat.ProfileActivity" />
+        <activity android:name="com.example.MantashaChat.chatActivity" />
+        <activity android:name="com.example.MantashaChat.setProfile" />
+        <activity android:name="com.example.MantashaChat.otpAuthentication" />
+        <activity android:name="com.example.MantashaChat.MainActivity" />
+        <activity android:name="com.example.MantashaChat.splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

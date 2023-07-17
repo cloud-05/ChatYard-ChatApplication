@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14763875053",
+    "project_id": "functional-chatapp",
+    "storage_bucket": "functional-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14763875053:android:ce816cd0d2e68fc3010ae4",
+        "android_client_info": {
+          "package_name": "com.example.MantashaChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14763875053-ljtf1pkm0mecl2nkmde49q8tadeajs2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwdqfdkW2ILoKjYhtCEm1CPd5EE856e5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14763875053-ljtf1pkm0mecl2nkmde49q8tadeajs2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
